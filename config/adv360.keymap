@@ -354,7 +354,7 @@
             #binding-cells = <0>;
             bindings =
                 <&none>,
-                <&macro_press>,
+                <&macro_tap>,
                 <&kp LS(M) &kp O &kp S &kp S &kp AT_SIGN &kp NUMBER_4 &kp T &kp H &kp ENTER>;
 
             label = "PASS3";
