@@ -411,11 +411,11 @@
 
         layer_dataentry_fn {
             bindings = <
-&kp EXCLAMATION  &kp DOLLAR             &kp PLUS      &kp EQUAL       &kp MINUS        &kp COMMA     &kp HOME                                                                     &kp NUMBER_3   &kp N7          &kp N8                &kp CLCK        &kp N9          &kp N0           &mo 3
-&show_formulas   &kp LEFT_PARENTHESIS   &kp N7        &kp N8          &kp NUMBER_9     &kp SLASH     &kp END                                                                      &kp NUMBER_4   &kp Y           &Paste_Values         &kp ENTER       &kp LEFT_ARROW  &kp RIGHT_ARROW  &Close_Cell_Link
-&kp TAB          &kp RIGHT_PARENTHESIS  &kp NUMBER_4  &kp N5          &kp NUMBER_6     &kp ASTERISK  &kp F4         &copy      &paste             &Open_Cell_Link   &kp NUMBER_6  &kp RIGHT_ALT  &kp BACKSPACE   &copy                 &paste          &kp L           &kp SEMICOLON    &kp SINGLE_QUOTE
-&kp LEFT_SHIFT   &kp NUMBER_0           &kp NUMBER_1  &kp NUMBER_2    &kp NUMBER_3     &kp F2                                  &kp RIGHT_WIN      &kp N5                                         &Copy_Formulas  &Excel_CtrlShft_Left  &kp COMMA       &kp PERIOD      &kp SLASH        &kp RIGHT_SHIFT
-&kp UP_ARROW     &kp LEFT_SHIFT         &kp PERIOD    &kp LEFT_ARROW  &kp RIGHT_ARROW                &kp BACKSPACE  &kp ENTER  &to 0              &Navigation_Menu  &kp DELETE    &kp SPACE                      &kp UP_ARROW          &kp DOWN_ARROW  &kp F2          &PageUp          &PageDown
+&kp EXCLAMATION  &kp DOLLAR             &kp PLUS      &kp EQUAL       &kp MINUS        &kp COMMA     &kp HOME                                                                     &kp NUMBER_3   &kp N7         &kp N8          &kp CLCK        &kp N9          &kp N0           &mo 3
+&show_formulas   &kp LEFT_PARENTHESIS   &kp N7        &kp N8          &kp NUMBER_9     &kp SLASH     &kp END                                                                      &kp NUMBER_4   &kp Y          &Paste_Values   &kp ENTER       &kp LEFT_ARROW  &kp RIGHT_ARROW  &Close_Cell_Link
+&kp TAB          &kp RIGHT_PARENTHESIS  &kp NUMBER_4  &kp N5          &kp NUMBER_6     &kp ASTERISK  &kp F4         &copy      &paste             &Open_Cell_Link   &kp NUMBER_6  &kp RIGHT_ALT  &kp BACKSPACE  &copy           &paste          &kp L           &kp SEMICOLON    &kp SINGLE_QUOTE
+&kp LEFT_SHIFT   &kp NUMBER_0           &kp NUMBER_1  &kp NUMBER_2    &kp NUMBER_3     &kp F2                                  &kp RIGHT_WIN      &kp N5                                         &kp N          &Copy_Formulas  &kp COMMA       &kp PERIOD      &kp SLASH        &kp RIGHT_SHIFT
+&kp UP_ARROW     &kp LEFT_SHIFT         &kp PERIOD    &kp LEFT_ARROW  &kp RIGHT_ARROW                &kp BACKSPACE  &kp ENTER  &to 0              &Navigation_Menu  &kp DELETE    &kp SPACE                     &kp UP_ARROW    &kp DOWN_ARROW  &kp F2          &PageUp          &PageDown
             >;
         };
 
