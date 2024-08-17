@@ -318,7 +318,7 @@
 &show_formulas  &kp Q           &kp W           &kp E           &kp R            &kp T      &kp END                                                                      &kp NUMBER_4   &kp Y   &kp U         &kp I           &kp O    &kp P     &Close_Cell_Link
 &kp TAB         &kp A           &kp S           &kp D           &kp F            &kp G      &kp F4         &copy      &paste             &Open_Cell_Link   &kp NUMBER_6  &kp RIGHT_ALT  &kp H   &kp J         &kp K           &kp L    &kp SEMI  &kp SQT
 &kp LSHFT       &kp Z           &kp X           &kp C           &kp V            &kp B                                &kp RIGHT_WIN      &kp NUMBER_5                                   &kp N   &kp M         &kp COMMA       &kp DOT  &kp FSLH  &kp RSHFT
-&kp UP_ARROW    &kp LEFT_SHIFT  &kp DOWN_ARROW  &kp LEFT_ARROW  &kp RIGHT_ARROW             &kp BACKSPACE  &kp ENTER  &to 1              &Navigation_Menu  &kp DEL       &kp SPACE              &kp UP_ARROW  &kp DOWN_ARROW  &kp F2   &PageUp   &PageDown
+&kp UP_ARROW    &kp LEFT_SHIFT  &kp DOWN_ARROW  &kp LEFT_ARROW  &kp RIGHT_ARROW             &kp BACKSPACE  &kp ENTER  &to 2              &Navigation_Menu  &kp DEL       &kp SPACE              &kp UP_ARROW  &kp DOWN_ARROW  &kp F2   &PageUp   &PageDown
             >;
         };
 
