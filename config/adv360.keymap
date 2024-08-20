@@ -333,39 +333,6 @@
             label = "TRIPLE_LEFT_CLICK";
         };
 
-        pass1: pass1 {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings =
-                <&none>,
-                <&macro_tap>,
-                <&kp LS(B) &kp R &kp Y &kp A &kp N &kp LS(S) &kp M &kp TAB &kp LS(M) &kp O &kp S &kp S &kp AT_SIGN &kp NUMBER_2 &kp NUMBER_2 &kp NUMBER_4 &kp NUMBER_9 &kp NUMBER_2 &kp ENTER>;
-
-            label = "PASS1";
-        };
-
-        pass2: pass2 {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings =
-                <&none>,
-                <&macro_tap>,
-                <&kp LS(M) &kp O &kp S &kp S &kp AT_SIGN &kp NUMBER_2 &kp NUMBER_2 &kp NUMBER_4 &kp NUMBER_9 &kp NUMBER_2 &kp ENTER>;
-
-            label = "PASS2";
-        };
-
-        pass3: pass3 {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings =
-                <&none>,
-                <&macro_tap>,
-                <&kp LS(M) &kp O &kp S &kp S &kp AT_SIGN &kp NUMBER_4 &kp T &kp H &kp ENTER>;
-
-            label = "PASS3";
-        };
-
         Copy_Formulas: Copy_Formulas {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
